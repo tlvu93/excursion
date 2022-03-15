@@ -1,0 +1,23 @@
+{
+  "name": "excursion",
+  "version": "1.0.0",
+  "description": "This is a exercise project from Code Academy (learn-git/f1-excursion)",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlvu93/excursion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlvu93/excursion/issues"
+  },
+  "homepage": "https://github.com/tlvu93/excursion#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "prettier": "^1.19.1"
+  }
+}
